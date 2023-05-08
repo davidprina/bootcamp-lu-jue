@@ -74,3 +74,5 @@ Normalmente van sobre la raiz del proyecto
 Necesito crear el archivo **.gitignore**
 
 ''hs
+touch .gitignore
+''
