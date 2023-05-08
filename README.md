@@ -64,3 +64,13 @@ Nota: Si la consola queda bloqueada y no puedo salir del listado tengo apretar l
 ```sh
 git diff
 ```
+
+## Clase 16 
+
+## .gitignore
+Este archivo me sierve para ignorar archivos o carpetas que no seas parte del repositorio,
+Normalmente van sobre la raiz del proyecto
+
+Necesito crear el archivo **.gitignore**
+
+''hs
