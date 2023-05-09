@@ -73,6 +73,18 @@ Normalmente van sobre la raiz del proyecto
 
 Necesito crear el archivo **.gitignore**
 
-''hs
+```sh
 touch .gitignore
-''
+```
+
+## Agrego a mi remoto Local la url del repo Remoto
+
+```sh
+git remote add origin https://github.com/davidprina/bootcamp-lu-jue.git
+```
+### Visualizar que url tengo agregada 
+
+```sh
+git remote -v
+```
+
